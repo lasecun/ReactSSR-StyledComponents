@@ -10,9 +10,9 @@ const AppContainer = styled.div`
   width: 100%;
   height: 100%;
   font-size: 40px;
-  background: linear-gradient(20deg, rgb(219, 112, 147), #daa357);
+  background: linear-gradient(20deg, rgb(200, 100, 050), #daa357);
 `;
 
-const App = () => <AppContainer>💅</AppContainer>;
+const App = () => <AppContainer>Hello World</AppContainer>;
 
 export default App;
